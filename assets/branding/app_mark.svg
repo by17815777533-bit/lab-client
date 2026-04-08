@@ -1,0 +1,13 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="6" y="6" width="60" height="60" rx="20" fill="url(#bg)"/>
+  <rect x="7" y="7" width="58" height="58" rx="19" stroke="white" stroke-opacity="0.18"/>
+  <path d="M16 12C23 11 30 10 38 10C48 10 57 11 62 15C57 11 50 12 44 12C34 12 25 13 16 12Z" fill="white" fill-opacity="0.22"/>
+  <text x="36" y="41" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="900" letter-spacing="3" fill="#F8FAFC">AIIT</text>
+  <defs>
+    <linearGradient id="bg" x1="12" y1="10" x2="60" y2="62" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="0.58" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+</svg>
